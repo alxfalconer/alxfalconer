@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm Alexander Falconer.
 
-My mission is to provide elegant solutions to complex problems through Software Engineering, Digital Design and Art Direction.
+My mission is to provide elegant solutions to complex problems through 
+Software Engineering
+Digital Design 
+and Art Direction.
 
 For inquiries, advice, or just to chat, find me on LinkedIn at https://www.linkedin.com/in/alexander-falconer-design/
 
