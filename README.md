@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Alexander Falconer, a Frontend Developer and Digital Designer based in Brooklyn, New York. My mission is to provide elegant solutions to complex problems through Software Engineering, Digital Design and Art Direction, aiding emerging startups in the creator economy. In my spare time I make experimenal music, create abstract collages and take care of my 2 cats.
+### Hi there 👋 I'm Alexander Falconer.
+
+My mission is to provide elegant solutions to complex problems through Software Engineering, Digital Design and Art Direction, aiding emerging startups in the creator economy. In my spare time I make experimenal music, create abstract collages and take care of my 2 cats.
 
 <!--
 **alxfalconer/alxfalconer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
