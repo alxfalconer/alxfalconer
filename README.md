@@ -4,7 +4,7 @@ My mission is to provide elegant solutions to complex problems through Software 
 
 I'm passionate about creating engaging user experiences and distinct visual identities for companies in the creator economy.
 
-For inquiries, advice, or just to chat, find me on LinkedIn at https://www.linkedin.com/in/alexander-falconer-design/
+For inquiries, advice, or just to chat, find me on LinkedIn: https://www.linkedin.com/in/alexander-falconer-design/
 
 <!--
 **alxfalconer/alxfalconer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
