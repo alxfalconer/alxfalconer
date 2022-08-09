@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Alexander Falconer.
 
-My mission is to provide elegant solutions to complex problems through Software Engineering, Digital Design and Art Direction, aiding emerging startups in the creator economy. In my spare time I make experimenal music, create abstract collages and take care of my 2 cats.
+My mission is to provide elegant solutions to complex problems through Software Engineering, Digital Design and Art Direction.
+
+For inqueries, advice, or just to chat, find me on LinkedIn at https://www.linkedin.com/in/alexander-falconer-design/
 
 <!--
 **alxfalconer/alxfalconer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
